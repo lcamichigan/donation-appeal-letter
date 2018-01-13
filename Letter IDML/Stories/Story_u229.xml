@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="13.0">
+	<Story Self="u229" IsEndnoteStory="false" UserText="true" AppliedTOCStyle="n" StoryTitle="$ID/" TrackChanges="false" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/First Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Date</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Salutation">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Dear Brothers and Friends of Sigma,</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/First Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Ebis ulparum int a que et dolupti umquiatiatia iuntorionse esendit est eliquodi id ulpariore, tet pa conseque dolorem poreptati alit quaepe prepeliquunt vellacea iuntore ratiandit aturias rem in necum escipit ibusam, quaerum rersper speris aut quae reium nos volor aut verumquatis nossimus essed maximus.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Ullantio dis arum vellant emporio dolorerum dest, assequam sapel et qui dolupta ssunt, omnimin repelit reprerf ernatius assenim harchil icienisciume restotatque none pore ius del maximinciis di diorionet erumqui suntibusa dolor mo es et, occupiet es endes periat que vid exerumquam quatemp oriasperum quos estiae optatem ad moluptaera quame sero intur am quas nos quia num aut ut ipsanditat antis iuntur?</Content>
+				<Br />
+				<Content>Nihitatenis elendebis susam quodis doluptatur as aliquatem et eatur sedi num aut et iunt dior aligendis quibus.</Content>
+				<Br />
+				<Content>Mincium et et quiam repellam qui occum autecatum aligene scilit laut occat.</Content>
+				<Br />
+				<Content>Ur? Resenima eos sae eos eriae electat urecepe riatesci omnihic te reptus.</Content>
+				<Br />
+				<Content>Ibusa delique aligendicia nis et lab illorro con por si sitia volorep tatur? Hento dolor sequaeres modiani andelicatur audande perferia derum expliquas eostistiur si ne consequas delis simintius sitatus cimagni hiliscia et la volesequas dis nonsed mint, nonsent.</Content>
+				<Br />
+				<Content>Ut doloria id earia sa nihilit quis et offici acessunt lati samus am et aliassim reperupta quam, suntum re plit volupti officat exerfer eribus, id molupta eprovit dipid maxima cumquate ipsae repudam quiant ut faceperunto bea et landus aut quia sum ipicae evendesequi nimus, acerit laut laut peruptature, officie nimendi ni volorum qui rehenduntia de dolores dolorrovit fuga. Ut dolut venihicia quia dolores core et re doloris aliti andae. Et denet, ulpa nectium alicium suntia quid que nonsed maximiniamet faccae. Dellor as et repelis ent voluptia corem volupta tusandant.</Content>
+				<Br />
+				<Content>Solectem ea core sinvel et molor magniatiis ilique cus, sequid ma cullabo. Ut estrumquos volutatis corum harciatur, ut lacipsae eatet quam enda poria cumquo explantiur accatiis res ut poreptatibus eost, quaecup tatatem facerese lamustibus ne vel ius ium ipsaerest iundi oditios entet ex esciliquiam fuga. Um quam que audit, nienientis evelectaquat eos doluptatus eostiunt odi consediciat de con pra sin rerio que non nossit pre simincidus sim volorum fuga. Et pre res evellam eium que perumet et hictate num aborepeles venditione et am eosant.</Content>
+				<Br />
+				<Content>Mil ipsuntionem ilici reicia autemperita qui autentio. Ut re cum voles quate porrum illandiatus nis et doluptio. Aliquassunt enimil esequo dolor sit laborecto cusame eum abo. Nequi derum quistis sit, temossita di dolupta tionsequam estotam ut haribus ium quis adissed qui aceria voloria qui cum alia dolorepe numqui iliquo ium quatus, offictur aspelique sunda simolo endis.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Valediction">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Sincerely yours in ΖΑΧ,</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/First Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Br />
+				<Content>Name, Michigan ’##, Σ ####</Content>
+				<Br />
+				<Content>Title, Sigma Alumni Association</Content>
+				<Br />
+				<Content>email@domain.com</Content>
+				<Br />
+				<Content>(###) ###-####</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>
