@@ -25,11 +25,11 @@ To create a donation appeal letter, you need:
 
 * These fonts:
 
-  | Font                                                                     | Download URL                                                             |
-  |--------------------------------------------------------------------------|--------------------------------------------------------------------------|
-  | [Damion](https://fonts.google.com/specimen/Damion)                       | https://github.com/google/fonts/raw/master/ofl/damion/Damion-Regular.ttf |
-  | [Gillius](http://arkandis.tuxfamily.org/adffonts.html)                   | http://arkandis.tuxfamily.org/fonts/Gillius-Collection-20110312.zip      |
-  | [Linux Libertine](http://www.linuxlibertine.org) (OpenType version)      | http://mirrors.ctan.org/fonts/libertine.zip                              |
+  | Font                                                                | Download URL                                                             |
+  |---------------------------------------------------------------------|--------------------------------------------------------------------------|
+  | [Damion](https://fonts.google.com/specimen/Damion)                  | https://github.com/google/fonts/raw/master/ofl/damion/Damion-Regular.ttf |
+  | [Gillius](http://arkandis.tuxfamily.org/adffonts.html)              | http://arkandis.tuxfamily.org/fonts/Gillius-Collection-20110312.zip      |
+  | [Linux Libertine](http://www.linuxlibertine.org) (OpenType version) | http://mirrors.ctan.org/fonts/libertine.zip                              |
 
 ## Creating InDesign Files
 
@@ -88,18 +88,10 @@ zip --recurse-paths --no-dir-entries -X9 ../Letter.idml * --exclude *.DS_Store m
 
 The envelope includes an embedded image of a cross and crescent created using a
 [cross-and-crescent package](https://github.com/lcamichigan/cross-and-crescent)
-in LaTeX. To create this image using a standard installation of
-[TeX Live](https://www.tug.org/texlive/) on Windows, enter in PowerShell
-
-```powershell
-(New-Object System.Net.WebClient).DownloadFile('https://github.com/lcamichigan/cross-and-crescent/releases/download/v1.4/cross-and-crescent.sty', [System.IO.Path]::Combine((Get-Location), 'cross-and-crescent.sty'))
-latex -jobname logo -output-format pdf '\documentclass{standalone}\usepackage{cross-and-crescent}\begin{document}\begin{tikzpicture}[scale=45bp/8cm]\crossAndCrescentSetMacros\draw[line width=0.5bp]\crossAndCrescentPath\end{tikzpicture}\end{document}'
-```
-
-To create this image using a standard installation of
-[MacTeX](https://www.tug.org/mactex/) on macOS, enter in Terminal
+in LaTeX. To create this image,
+[install](https://github.com/lcamichigan/cross-and-crescent#installing) the
+cross-and-crescent package, and then enter in PowerShell or Terminal
 
 ```sh
-curl --location --remote-name https://github.com/lcamichigan/cross-and-crescent/releases/download/v1.4/cross-and-crescent.sty
 latex -jobname logo -output-format pdf '\documentclass{standalone}\usepackage{cross-and-crescent}\begin{document}\begin{tikzpicture}[scale=45bp/8cm]\crossAndCrescentSetMacros\draw[line width=0.5bp]\crossAndCrescentPath\end{tikzpicture}\end{document}'
 ```
