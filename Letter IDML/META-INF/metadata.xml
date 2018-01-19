@@ -13,10 +13,10 @@
             xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#">
          <dc:format>application/x-indesign</dc:format>
          <xmp:CreateDate>2018-01-13T10:37:22-05:00</xmp:CreateDate>
-         <xmp:MetadataDate>2018-01-13T15:41:12-05:00</xmp:MetadataDate>
-         <xmp:ModifyDate>2018-01-13T15:41:12-05:00</xmp:ModifyDate>
+         <xmp:MetadataDate>2018-01-18T12:13:13-05:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2018-01-18T12:13:13-05:00</xmp:ModifyDate>
          <xmp:CreatorTool>Adobe InDesign CC 13.0 (Macintosh)</xmp:CreatorTool>
-         <xmpMM:InstanceID>xmp.iid:4e266df4-0a33-4df1-8e1e-2b4e2b45d910</xmpMM:InstanceID>
+         <xmpMM:InstanceID>xmp.iid:7a8eed3d-27c7-412a-bcbb-d258eac7a355</xmpMM:InstanceID>
          <xmpMM:DocumentID>xmp.did:5aba5fc1-0d38-45f6-bc27-7b6d8a908151</xmpMM:DocumentID>
          <xmpMM:OriginalDocumentID>xmp.did:5aba5fc1-0d38-45f6-bc27-7b6d8a908151</xmpMM:OriginalDocumentID>
          <xmpMM:History>
@@ -50,15 +50,15 @@
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
                   <stEvt:action>saved</stEvt:action>
-                  <stEvt:instanceID>xmp.iid:4e266df4-0a33-4df1-8e1e-2b4e2b45d910</stEvt:instanceID>
-                  <stEvt:when>2018-01-13T15:41:12-05:00</stEvt:when>
+                  <stEvt:instanceID>xmp.iid:7a8eed3d-27c7-412a-bcbb-d258eac7a355</stEvt:instanceID>
+                  <stEvt:when>2018-01-18T12:13:13-05:00</stEvt:when>
                   <stEvt:softwareAgent>Adobe InDesign CC 13.0 (Macintosh)</stEvt:softwareAgent>
                   <stEvt:changed>/</stEvt:changed>
                </rdf:li>
             </rdf:Seq>
          </xmpMM:History>
          <xmpMM:RenditionClass>default</xmpMM:RenditionClass>
-         <idPriv:DocChangeCount>942</idPriv:DocChangeCount>
+         <idPriv:DocChangeCount>943</idPriv:DocChangeCount>
          <idPriv:keyStampMp>AAAAAA==</idPriv:keyStampMp>
          <xmpTPg:Colorants>
             <rdf:Seq>

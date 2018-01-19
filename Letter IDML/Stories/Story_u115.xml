@@ -15,11 +15,8 @@
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Donation Instructions">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Properties>
-					<AppliedFont type="string">Gillius ADF No2</AppliedFont>
-				</Properties>
 				<Table Self="u115i12d" AppliedTableStyle="TableStyle/$ID/[Basic Table]" BodyRowCount="1" ColumnCount="8" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" HeaderRowCount="0" FooterRowCount="0" TableDirection="LeftToRightDirection" LeftBorderStrokeType="n" RightBorderStrokeType="n" TopBorderStrokeType="n" BottomBorderStrokeType="n" SpaceBefore="12" SpaceAfter="4">
 					<Row Self="u115i12dRow0" TextTopInset="0" TextLeftInset="0" TextBottomInset="0" TextRightInset="0" ClipContentToTextCell="false" Name="0" SingleRowHeight="12" MinimumHeight="12" />
 					<Column Self="u115i12dColumn0" TextTopInset="0" TextLeftInset="0" TextBottomInset="0" TextRightInset="0" ClipContentToTextCell="false" Name="0" SingleColumnWidth="67.5" />
@@ -430,10 +427,6 @@
 					</Cell>
 				</Table>
 				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Donation Instructions">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Make check payable to </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Italic">
