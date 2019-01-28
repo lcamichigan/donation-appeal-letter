@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<?aid style="50" type="document" readerVersion="6.0" featureSet="257" product="13.0(207)" ?>
-<Document xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="13.0" Self="d" StoryList="ude uf7 u115 u13d u157 u174 u191 u1ae u1cf u1ec u209 u229 u26f uaa" ActiveLayer="uc5" ZeroPoint="0 0" Name="Letter.indd" RGBPolicy="PreserveEmbeddedProfiles" CMYKPolicy="CombinationOfPreserveAndSafeCmyk" AccurateLABSpots="false" CMYKProfile="U.S. Web Coated (SWOP) v2" RGBProfile="sRGB IEC61966-2.1" SolidColorIntent="UseColorSettings" AfterBlendingIntent="UseColorSettings" DefaultImageIntent="UseColorSettings">
+<?aid style="50" type="document" readerVersion="6.0" featureSet="257" product="14.0(209)" ?>
+<Document xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="14.0" Self="d" StoryList="ude uf7 u115 u13d u157 u174 u191 u1ae u1cf u1ec u209 u229 u26f uaa" Name="Letter.indd" ZeroPoint="0 0" ActiveLayer="uc5" CMYKProfile="U.S. Web Coated (SWOP) v2" RGBProfile="sRGB IEC61966-2.1" SolidColorIntent="UseColorSettings" AfterBlendingIntent="UseColorSettings" DefaultImageIntent="UseColorSettings" RGBPolicy="PreserveEmbeddedProfiles" CMYKPolicy="CombinationOfPreserveAndSafeCmyk" AccurateLABSpots="false">
 	<Properties>
 		<Label>
 			<KeyValuePair Key="kAdobeDPS_Version" Value="2" />
 		</Label>
 	</Properties>
-	<Language Self="Language/$ID/English%3a USA" HyphenationVendor="Hunspell" SpellingVendor="Hunspell" Name="$ID/English: USA" SingleQuotes="‘’" DoubleQuotes="“”" PrimaryLanguageName="$ID/English" SublanguageName="$ID/USA" Id="269" />
+	<Language Self="Language/$ID/English%3a USA" Name="$ID/English: USA" SingleQuotes="‘’" DoubleQuotes="“”" PrimaryLanguageName="$ID/English" SublanguageName="$ID/USA" Id="269" HyphenationVendor="Hunspell" SpellingVendor="Hunspell" />
 	<idPkg:Graphic src="Resources/Graphic.xml" />
 	<idPkg:Fonts src="Resources/Fonts.xml" />
 	<idPkg:Styles src="Resources/Styles.xml" />
@@ -20,7 +20,6 @@
 	</NamedGrid>
 	<ConditionalTextPreference ShowConditionIndicators="ShowIndicators" ActiveConditionSet="n" />
 	<idPkg:Preferences src="Resources/Preferences.xml" />
-	<TextFrameFootnoteOptionsObject EnableOverrides="false" SpanFootnotesAcross="false" MinimumSpacingOption="12" SpaceBetweenFootnotes="6" />
 	<EndnoteOption EndnoteTitle="Endnotes" EndnoteTitleStyle="ParagraphStyle/$ID/NormalParagraphStyle" StartEndnoteNumberAt="1" EndnoteMarkerStyle="CharacterStyle/$ID/[No character style]" EndnoteTextStyle="ParagraphStyle/$ID/NormalParagraphStyle" EndnoteSeparatorText="&#x9;" EndnotePrefix="" EndnoteSuffix="">
 		<Properties>
 			<EndnoteNumberingStyle type="enumeration">Arabic</EndnoteNumberingStyle>
@@ -31,14 +30,16 @@
 			<ShowEndnotePrefixSuffix type="enumeration">NoPrefixSuffix</ShowEndnotePrefixSuffix>
 		</Properties>
 	</EndnoteOption>
+	<TextFrameFootnoteOptionsObject EnableOverrides="false" SpanFootnotesAcross="false" MinimumSpacingOption="12" SpaceBetweenFootnotes="6" />
+	<LinkedStoryOption UpdateWhileSaving="false" WarnOnUpdateOfEditedStory="true" RemoveForcedLineBreaks="false" ApplyStyleMappings="false" />
 	<LinkedPageItemOption UpdateLinkWhileSaving="false" WarnOnUpdateOfEditedPageItem="true" PreserveSizeAndShape="false" PreserveAppearance="false" PreserveInteractivity="false" PreserveFrameContent="false" PreserveOthers="false" />
-	<LinkedStoryOption ApplyStyleMappings="false" UpdateWhileSaving="false" WarnOnUpdateOfEditedStory="true" RemoveForcedLineBreaks="false" />
 	<WatermarkPreference WatermarkVisibility="false" WatermarkDoPrint="false" WatermarkDrawInBack="true" WatermarkText="" WatermarkFontFamily="Minion Pro" WatermarkFontStyle="Regular" WatermarkFontPointSize="48" WatermarkOpacity="50" WatermarkRotation="0" WatermarkHorizontalPosition="WatermarkHCenter" WatermarkHorizontalOffset="0" WatermarkVerticalPosition="WatermarkVCenter" WatermarkVerticalOffset="0">
 		<Properties>
 			<WatermarkFontColor type="enumeration">Black</WatermarkFontColor>
 		</Properties>
 	</WatermarkPreference>
 	<TaggedPDFPreference StructureOrder="UseXMLStructure" />
+	<AdjustLayoutPreference EnableAdjustLayout="true" AllowLockedObjectsToAdjust="true" AllowFontSizeAndLeadingAdjustment="false" ImposeFontSizeRestriction="false" MinimumFontSize="6" MaximumFontSize="324" EnableAutoAdjustMargins="false" />
 	<HTMLFXLExportPreference EpubPageRange="" EpubPageRangeFormat="ExportAllPages" />
 	<PublishExportPreference PublishCover="FirstPage" CoverImageFile="" PublishPageRange="" PublishPageRangeFormat="ExportAllPages" ImageConversion="Automatic" ImageExportResolution="Ppi96" PublishDescription="" PublishFileName="" PublishFormat="PublishByPages" CoverPage="$ID/" GIFOptionsPalette="AdaptivePalette" JPEGOptionsQuality="High" PublishPdf="false" />
 	<TextVariable Self="dTextVariablen&lt;?AID 001b?&gt;TV XRefChapterNumber" Name="&lt;?AID 001b?&gt;TV XRefChapterNumber" VariableType="XrefChapterNumberType" />
@@ -82,14 +83,14 @@
 		</CustomTextVariablePreference>
 	</TextVariable>
 	<idPkg:Tags src="XML/Tags.xml" />
-	<Layer Self="uc5" Name="Layer 1" Visible="true" Locked="false" IgnoreWrap="false" ShowGuides="true" LockGuides="false" Printable="true" UI="true" Expendable="true">
+	<Layer Self="uc5" Name="Layer 1" Visible="true" Locked="false" IgnoreWrap="false" ShowGuides="true" LockGuides="false" UI="true" Expendable="true" Printable="true">
 		<Properties>
 			<LayerColor type="enumeration">LightBlue</LayerColor>
 		</Properties>
 	</Layer>
 	<idPkg:MasterSpread src="MasterSpreads/MasterSpread_ucf.xml" />
 	<idPkg:Spread src="Spreads/Spread_uc8.xml" />
-	<Section Self="uce" Name="" ContinueNumbering="true" IncludeSectionPrefix="false" Marker="" PageStart="ucd" SectionPrefix="" AlternateLayoutLength="1" AlternateLayout="Letter V" Length="1">
+	<Section Self="uce" Length="1" Name="" ContinueNumbering="true" IncludeSectionPrefix="false" Marker="" PageStart="ucd" SectionPrefix="" AlternateLayoutLength="1" AlternateLayout="Letter V">
 		<Properties>
 			<PageNumberStyle type="enumeration">Arabic</PageNumberStyle>
 		</Properties>
@@ -158,7 +159,7 @@
 	<idPkg:Story src="Stories/Story_u174.xml" />
 	<idPkg:Story src="Stories/Story_u157.xml" />
 	<idPkg:Story src="Stories/Story_u13d.xml" />
-	<ColorGroup Self="ColorGroup/[Root Color Group]" IsRootColorGroup="true" Name="[Root Color Group]">
+	<ColorGroup Self="ColorGroup/[Root Color Group]" Name="[Root Color Group]" IsRootColorGroup="true">
 		<ColorGroupSwatch Self="u18ColorGroupSwatch0" SwatchItemRef="Swatch/None" />
 		<ColorGroupSwatch Self="u18ColorGroupSwatch1" SwatchItemRef="Color/Registration" />
 		<ColorGroupSwatch Self="u18ColorGroupSwatch2" SwatchItemRef="Color/Paper" />
@@ -210,7 +211,7 @@
 			<BulletsFontStyle type="string">$ID/Regular</BulletsFontStyle>
 		</Properties>
 	</ABullet>
-	<Assignment Self="ud6" IncludeLinksWhenPackage="true" FilePath="$ID/" Name="$ID/UnassignedInCopy" UserName="$ID/" ExportOptions="AssignedSpreads">
+	<Assignment Self="ud6" Name="$ID/UnassignedInCopy" UserName="$ID/" ExportOptions="AssignedSpreads" IncludeLinksWhenPackage="true" FilePath="$ID/">
 		<Properties>
 			<FrameColor type="enumeration">Nothing</FrameColor>
 		</Properties>
