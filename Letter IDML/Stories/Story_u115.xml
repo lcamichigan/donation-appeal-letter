@@ -475,7 +475,7 @@
 					<Cell Self="u115i261i3" Name="0:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="8" TextLeftInset="8" TextBottomInset="8" TextRightInset="8" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" LeftInset="8" TopInset="8" RightInset="8" BottomInset="8" LeftEdgeStrokeWeight="1" RightEdgeStrokeWeight="1" TopEdgeStrokeWeight="1" BottomEdgeStrokeWeight="1" LeftEdgeStrokeColor="Color/Black" TopEdgeStrokeColor="Color/Black" RightEdgeStrokeColor="Color/Black" BottomEdgeStrokeColor="Color/Black" LeftEdgeStrokeType="n" RightEdgeStrokeType="n" TopEdgeStrokeType="n" BottomEdgeStrokeType="n" VerticalJustification="CenterAlign" LeftEdgeStrokeTint="100" RightEdgeStrokeTint="100" TopEdgeStrokeTint="100" BottomEdgeStrokeTint="100" LeftEdgeStrokeOverprint="false" RightEdgeStrokeOverprint="false" TopEdgeStrokeOverprint="false" BottomEdgeStrokeOverprint="false" LeftEdgeStrokePriority="1" RightEdgeStrokePriority="3" TopEdgeStrokePriority="1" BottomEdgeStrokePriority="1" LeftEdgeStrokeGapTint="100" RightEdgeStrokeGapTint="100" TopEdgeStrokeGapTint="100" BottomEdgeStrokeGapTint="100" LeftEdgeStrokeGapColor="Color/Paper" RightEdgeStrokeGapColor="Color/Paper" TopEdgeStrokeGapColor="Color/Paper" BottomEdgeStrokeGapColor="Color/Paper">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Contact Form">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>Zeta number:</Content>
+								<Content>Zeta number (if known):</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
