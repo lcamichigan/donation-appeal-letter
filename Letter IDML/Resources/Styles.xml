@@ -128,6 +128,12 @@
 				<AppliedFont type="string">Gillius ADF No2</AppliedFont>
 			</Properties>
 		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Donation Form Date" Name="Donation Form Date" Imported="false" NextStyle="ParagraphStyle/Donation Form Date" SplitDocument="false" EmitCss="true" StyleUniqueId="8845d4fb-edac-4b32-9a41-38c4a334aed3" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="8" GridAlignment="None">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/First Paragraph</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</ParagraphStyle>
 	</RootParagraphStyleGroup>
 	<TOCStyle Self="TOCStyle/$ID/DefaultTOCStyleName" TitleStyle="ParagraphStyle/$ID/[No paragraph style]" Title="Contents" Name="$ID/DefaultTOCStyleName" RunIn="false" IncludeHidden="false" IncludeBookDocuments="false" CreateBookmarks="true" SetStoryDirection="Horizontal" NumberedParagraphs="IncludeFullParagraph" MakeAnchor="false" RemoveForcedLineBreak="false" />
 	<RootCellStyleGroup Self="u88">

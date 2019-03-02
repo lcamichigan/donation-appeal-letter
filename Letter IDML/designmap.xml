@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <?aid style="50" type="document" readerVersion="6.0" featureSet="257" product="14.0(209)" ?>
-<Document xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="14.0" Self="d" StoryList="ude uf7 u115 u13d u157 u174 u191 u1ae u1cf u1ec u209 u229 u26f uaa" Name="Letter.indd" ZeroPoint="0 0" ActiveLayer="uc5" CMYKProfile="U.S. Web Coated (SWOP) v2" RGBProfile="sRGB IEC61966-2.1" SolidColorIntent="UseColorSettings" AfterBlendingIntent="UseColorSettings" DefaultImageIntent="UseColorSettings" RGBPolicy="PreserveEmbeddedProfiles" CMYKPolicy="CombinationOfPreserveAndSafeCmyk" AccurateLABSpots="false">
+<Document xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="14.0" Self="d" StoryList="ude uf7 u115 u13d u157 u174 u191 u1ae u1cf u1ec u209 u229 u26f u29e uaa" Name="Letter.indd" ZeroPoint="0 0" ActiveLayer="uc5" CMYKProfile="U.S. Web Coated (SWOP) v2" RGBProfile="sRGB IEC61966-2.1" SolidColorIntent="UseColorSettings" AfterBlendingIntent="UseColorSettings" DefaultImageIntent="UseColorSettings" RGBPolicy="PreserveEmbeddedProfiles" CMYKPolicy="CombinationOfPreserveAndSafeCmyk" AccurateLABSpots="false">
 	<Properties>
 		<Label>
 			<KeyValuePair Key="kAdobeDPS_Version" Value="2" />
@@ -58,6 +58,9 @@
 	</TextVariable>
 	<TextVariable Self="dTextVariablenLast Page Number" Name="Last Page Number" VariableType="LastPageNumberType">
 		<PageNumberVariablePreference TextBefore="" Format="Current" TextAfter="" Scope="SectionScope" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenMM/YY Output Date" Name="MM/YY Output Date" VariableType="OutputDateType">
+		<DateVariablePreference TextBefore="" Format="MM/yy" TextAfter="" />
 	</TextVariable>
 	<TextVariable Self="dTextVariablenModification Date" Name="Modification Date" VariableType="ModificationDateType">
 		<DateVariablePreference TextBefore="" Format="MMMM d, yyyy h:mm aa" TextAfter="" />
@@ -146,6 +149,7 @@
 		<BuildingBlock Self="ua0BuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
 	</CrossReferenceFormat>
 	<idPkg:BackingStory src="XML/BackingStory.xml" />
+	<idPkg:Story src="Stories/Story_u29e.xml" />
 	<idPkg:Story src="Stories/Story_u26f.xml" />
 	<idPkg:Story src="Stories/Story_u229.xml" />
 	<idPkg:Story src="Stories/Story_u115.xml" />
