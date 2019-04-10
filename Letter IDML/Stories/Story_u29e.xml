@@ -5,7 +5,7 @@
 		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Donation Form Date">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PageNumberType="TextVariable">
-				<TextVariableInstance Self="u2b8" Name="MM/YY Output Date" ResultText="01/18" AssociatedTextVariable="dTextVariablenMM/YY Output Date" />
+				<TextVariableInstance Self="u2b8" Name="MM/YY Output Date" ResultText="03/19" AssociatedTextVariable="dTextVariablenMM/YY Output Date" />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 	</Story>

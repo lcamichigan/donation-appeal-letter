@@ -65,7 +65,7 @@
 			<RuleBelowType type="object">StrokeStyle/$ID/Solid</RuleBelowType>
 			<TabList type="list">
 			</TabList>
-			<AppliedFont type="string">Linux Libertine O</AppliedFont>
+			<AppliedFont type="string">Libertinus Serif</AppliedFont>
 			<Leading type="enumeration">Auto</Leading>
 			<UnderlineColor type="string">Text Color</UnderlineColor>
 			<UnderlineGapColor type="object">Swatch/None</UnderlineGapColor>

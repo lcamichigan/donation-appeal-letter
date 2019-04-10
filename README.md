@@ -24,11 +24,11 @@ To create a donation appeal letter, you need:
 
 * These fonts:
 
-  | Font                                                                | Download URL                                                             |
-  |---------------------------------------------------------------------|--------------------------------------------------------------------------|
-  | [Damion](https://fonts.google.com/specimen/Damion)                  | https://github.com/google/fonts/raw/master/ofl/damion/Damion-Regular.ttf |
-  | [Gillius](http://arkandis.tuxfamily.org/adffonts.html)              | http://arkandis.tuxfamily.org/fonts/Gillius-Collection-20110312.zip      |
-  | [Linux Libertine](http://libertine-fonts.org) (OpenType version)    | http://mirrors.ctan.org/fonts/libertine.zip                              |
+  | Font                                                         | Download URL                                                             |
+  |--------------------------------------------------------------|--------------------------------------------------------------------------|
+  | [Damion](https://fonts.google.com/specimen/Damion)           | https://github.com/google/fonts/raw/master/ofl/damion/Damion-Regular.ttf |
+  | [Gillius](http://arkandis.tuxfamily.org/adffonts.html)       | http://arkandis.tuxfamily.org/fonts/Gillius-Collection-20110312.zip      |
+  | [Libertinus](https://github.com/libertinus-fonts/libertinus) | https://github.com/libertinus-fonts/libertinus/releases/latest           |
 
 ## About the Envelope
 

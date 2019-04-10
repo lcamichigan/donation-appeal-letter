@@ -49,11 +49,11 @@
 				<SameParaStyleSpacing type="enumeration">SetIgnore</SameParaStyleSpacing>
 			</Properties>
 		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="fc64114b-1234-43e4-8461-01177485dffc" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="10" FirstLineIndent="18" OTFFigureStyle="ProportionalLining" Justification="LeftJustified" GridAlignment="AlignBaseline">
+		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="f1151040-8859-43fd-a375-1324251ff91c" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="10" FirstLineIndent="18" OTFFigureStyle="ProportionalLining" Justification="LeftJustified" GridAlignment="AlignBaseline">
 			<Properties>
 				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<AppliedFont type="string">Linux Libertine O</AppliedFont>
+				<AppliedFont type="string">Libertinus Serif</AppliedFont>
 			</Properties>
 		</ParagraphStyle>
 		<ParagraphStyle Self="ParagraphStyle/Alumni Note" Name="Alumni Note" Imported="false" NextStyle="ParagraphStyle/Alumni Note" SplitDocument="false" EmitCss="true" StyleUniqueId="2dec3b03-a678-4ed7-b12a-3299c9263f97" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" Hyphenation="false">
